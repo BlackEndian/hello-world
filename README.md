@@ -1,2 +1,3 @@
 # hello-world
-First repo.
+
+C language codes for my supplementary exam preparations.
